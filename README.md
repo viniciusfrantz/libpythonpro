@@ -2,6 +2,7 @@
 Módulo para exemplificar construção de projeto Python - curso Pytools
 Nesse curso é ensinado como contribuir com projetos openSource
 
+Link do curso [Python Pro] (https://pythonpro.com.br)
 Suportada versão 3 de Python
 
 Para instalar:
