@@ -24,7 +24,7 @@ standard_exclude_directories = [
 # Note: you may want to copy this into your setup.py file verbatim, as
 # you can't import this from another package, when you don't know if
 # that package is installed yet.
-def find_package_data(
+def find_package_dat    a(
     where=".",
     package="",
     exclude=standard_exclude,
@@ -49,6 +49,7 @@ def find_package_data(
     purposes).
     Note patterns use wildcards, or can be exact paths (including
     leading ``./``), and all searching is case-insensitive.
+    :type show_ignored: object
     """
     out = {}
     stack = [(convert_path(where), "", package, only_in_packages)]
