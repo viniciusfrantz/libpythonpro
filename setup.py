@@ -98,9 +98,9 @@ def find_package_data(
 PACKAGE = "libpythonpro"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Renzo Nuccitelli"
+AUTHOR = "Vinicius Frantz"
 AUTHOR_EMAIL = "renzo@python.pro.br"
-URL = "https://github.com/pythonprobr/libpythonpro"
+URL = "https://github.com/viniciusfrantz/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
