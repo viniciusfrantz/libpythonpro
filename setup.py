@@ -99,7 +99,7 @@ PACKAGE = "libpythonpro"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Vinicius Frantz"
-AUTHOR_EMAIL = "renzo@python.pro.br"
+AUTHOR_EMAIL = "viniciusfrantz@hotmail.com"
 URL = "https://github.com/viniciusfrantz/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
