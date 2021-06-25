@@ -36,4 +36,3 @@ def test_remetente_invalido(remetente):
             'Curso Python Pro',
             'Turma Henrique Bastos'
         )
-    assert remetente in resultado
