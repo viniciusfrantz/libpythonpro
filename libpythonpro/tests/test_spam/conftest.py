@@ -8,7 +8,7 @@ def conexao():
     # Setup
     conexao_obj = Conexao()
     yield conexao_obj
-# Tear Down
+    # Tear Down
     conexao_obj.fechar()
 
 
